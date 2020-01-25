@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6c65608-0c3f-41b8-ba8b-e4ee9bebecb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZ0jFTdoZI5jauiBfyrZVoXjCC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EnglishTensesRevision" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.BookshelfAppTest.GetAllMethod_2books_shouldReturnStatus200">
+    <configuration name="BookshelfApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.bookshelf.BookshelfApp" />
+      <module name="bookshelf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.bookshelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookshelfAppTest.GetAllMethod_1books_shouldReturnStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshelf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BookshelfAppTest" />
+      <option name="METHOD_NAME" value="GetAllMethod_1books_shouldReturnStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookshelfAppTest.GetAllMethod_2books_shouldReturnStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshelf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BookshelfAppTest" />
+      <option name="METHOD_NAME" value="GetAllMethod_2books_shouldReturnStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookshelfAppTest.GetAllMethod_books0_shouldReturnStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshelf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BookshelfAppTest" />
+      <option name="METHOD_NAME" value="GetAllMethod_books0_shouldReturnStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookshelfAppTest.getMethod_correctBookIdParam_shouldReturnStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshelf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.BookshelfAppTest" />
+      <option name="METHOD_NAME" value="getMethod_correctBookIdParam_shouldReturnStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookshelfAppTest.GetAllMethod_2books_shouldReturnStatus200" />
+        <item itemvalue="Application.BookshelfApp" />
+        <item itemvalue="JUnit.BookshelfAppTest.GetAllMethod_1books_shouldReturnStatus200" />
+        <item itemvalue="JUnit.BookshelfAppTest.getMethod_correctBookIdParam_shouldReturnStatus200" />
+        <item itemvalue="JUnit.BookshelfAppTest.GetAllMethod_books0_shouldReturnStatus200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c65608-0c3f-41b8-ba8b-e4ee9bebecb5" name="Default Changelist" comment="" />
+      <created>1577445442398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577445442398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1577455817914">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1577455817914" />
+    <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577908601228">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1577908601228" />
+    <state x="408" y="192" key="FileChooserDialogImpl" timestamp="1577912137679">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="408" y="192" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577912137679" />
+    <state width="1556" height="302" key="GridCell.Tab.0.bottom" timestamp="1577905942795">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="302" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577905942795" />
+    <state width="1556" height="302" key="GridCell.Tab.0.center" timestamp="1577905942794">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="302" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1577905942794" />
+    <state width="1556" height="302" key="GridCell.Tab.0.left" timestamp="1577905942794">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="302" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1577905942794" />
+    <state width="1556" height="302" key="GridCell.Tab.0.right" timestamp="1577905942795">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="302" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1577905942795" />
+    <state width="778" height="276" key="GridCell.Tab.1.bottom" timestamp="1577736887103">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577736887103" />
+    <state width="778" height="276" key="GridCell.Tab.1.center" timestamp="1577736887103">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1577736887103" />
+    <state width="778" height="276" key="GridCell.Tab.1.left" timestamp="1577736887103">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1577736887103" />
+    <state width="778" height="276" key="GridCell.Tab.1.right" timestamp="1577736887103">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1577736887103" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1577908578026">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1577908578026" />
+    <state x="330" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1577648742979">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="279" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1577648742979" />
+  </component>
+</project>

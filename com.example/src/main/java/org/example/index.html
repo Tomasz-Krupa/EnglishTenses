@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script>
+        function loadImage() {
+
+            var url = "https://aws.random.cat/meow";
+            var method= "GET";
+
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange= function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    console.log("Server response:", this)
+                    var parseJson= JSON.parse(this.responseText);
+                    console.log("Parse json:", parseJson)
+                    document.getElementById("replace_img").src = parseJson.file;
+                }
+            };
+             xhttp.open(method, url, true);
+             xhttp.send();
+        }
+
+        setInterval (loadImage, 3000);
+    </script>
+</head>
+<body style="background: #CCCCCC">
+
+<p style="text-align: center;">
+    <img id="replace_img" src="https://via.placeholder.com/150" alt="Example Image" style="border 1px solid #000000" >
+</p>
+
+</body>
+</html>

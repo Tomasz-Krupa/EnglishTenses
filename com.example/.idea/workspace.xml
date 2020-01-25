@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="322e5405-30be-46fd-a676-3a76bb465695" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UyEcNN8EYMix6v8hprHMF9InPR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\com.example\com.example\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\com.example\com.example\src\main\java\CoffeeMaker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Zad6">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="ratpacktasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Zad2" />
+      <module name="ratpacktasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Zad4" />
+      <module name="ratpacktasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Zad6" />
+      <module name="ratpacktasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Zad7" />
+      <module name="ratpacktasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zad6" />
+        <item itemvalue="Application.Zad4" />
+        <item itemvalue="Application.Zad2" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Zad7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322e5405-30be-46fd-a676-3a76bb465695" name="Default Changelist" comment="" />
+      <created>1576320512165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576320512165</updated>
+      <workItem from="1578303059238" duration="4912000" />
+      <workItem from="1578344070750" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="88" key="#App" timestamp="1578304081117">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="88" key="#App/0.0.1600.860@0.0.1600.860" timestamp="1578304081117" />
+    <state x="392" y="88" key="#Plugins" timestamp="1576664391673">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Plugins/0.0.1600.860@0.0.1600.860" timestamp="1576664391673" />
+    <state x="517" y="88" key="#Zad2" timestamp="1578304656991">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="88" key="#Zad2/0.0.1600.860@0.0.1600.860" timestamp="1578304656991" />
+    <state x="517" y="88" key="#Zad4" timestamp="1578307335420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="88" key="#Zad4/0.0.1600.860@0.0.1600.860" timestamp="1578307335420" />
+    <state x="517" y="88" key="#Zad6" timestamp="1578307509918">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="88" key="#Zad6/0.0.1600.860@0.0.1600.860" timestamp="1578307509918" />
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1576324061282">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1576324061282" />
+    <state x="648" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578303383605">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="648" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1578303383605" />
+    <state x="596" y="289" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577389570175">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="289" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1577389570175" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1577390618311">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577390618311" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1578307515138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578307515138" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1578307515138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578307515138" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1578307515138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578307515138" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1578307515138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578307515138" />
+    <state width="1556" height="276" key="GridCell.Tab.1.bottom" timestamp="1576448172095">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1576448172095" />
+    <state width="1556" height="276" key="GridCell.Tab.1.center" timestamp="1576448172094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1576448172094" />
+    <state width="1556" height="276" key="GridCell.Tab.1.left" timestamp="1576448172094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1576448172094" />
+    <state width="1556" height="276" key="GridCell.Tab.1.right" timestamp="1576448172094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1576448172094" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1576331155138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576331155138" />
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1578344072586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578344072586" />
+    <state x="443" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576337375773">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="443" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1576337375773" />
+    <state x="721" y="127" key="extract.method.dialog" timestamp="1576324505101">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="721" y="127" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1576324505101" />
+    <state x="851" y="204" key="run.anything.popup" timestamp="1577081710430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="851" y="204" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1577081710430" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1576664346673">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1576664346673" />
+    <state x="522" y="341" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576875860885">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="522" y="341" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1600.860@0.0.1600.860" timestamp="1576875860885" />
+  </component>
+</project>

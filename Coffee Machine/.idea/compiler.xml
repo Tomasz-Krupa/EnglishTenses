@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Assignments_main" target="11" />
+      <module name="Problems-Assignments_test" target="11" />
+      <module name="Problems-Danger_levels_main" target="11" />
+      <module name="Problems-Danger_levels_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-The_secret_enumeration_main" target="11" />
+      <module name="Problems-The_secret_enumeration_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
